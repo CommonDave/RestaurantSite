@@ -1,0 +1,104 @@
+body {
+  background-image: url("../img/background.jpg");
+  background-repeat: repeat;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: #000000;
+  opac
+}
+
+#main {
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.65);
+  width: 960px;
+}
+
+h1.ontop {
+  position: relative;
+}
+
+.text {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: inline-block;
+    padding: 8px;
+}
+
+.links {
+  margin: auto;
+}
+
+#nav {
+  height: 60px;
+  display: block;
+  margin: auto;
+}
+
+.text {
+  text-align: center;
+}
+
+#lasagne {
+  display: block;
+  margin: auto;
+  width: 440px;
+  height: 248px;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.subtitles {
+  text-align: center;
+}
+
+#gbread {
+  width: 540px;
+  height: 360px;
+  display: block;
+  margin: auto;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+#img2txt {
+  height: 15px;
+}
+
+.marketing {
+  width: 860px;
+  display: block;
+  margin: auto;
+}
+
+.marketingtext {
+  text-align: center;
+}
+
+#footer {
+  height: 35px;
+}
+
+#header {
+  height: 10px;
+}
